@@ -1,0 +1,13 @@
+# server (Go 二进制)
+server/taste-server.exe
+server/taste-server
+server/uploads/*
+!server/uploads/.gitkeep
+
+# web
+web/node_modules/
+web/dist/
+
+# misc
+*.log
+.DS_Store
