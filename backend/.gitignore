@@ -1,0 +1,12 @@
+# 编译产物
+app.exe
+app.exe~
+*.exe~
+
+# 运行时
+server.log
+uploads/
+
+# 临时截图/调试
+shots/
+cdp-profile/
